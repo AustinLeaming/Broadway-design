@@ -7,6 +7,7 @@ html, body {
     background-color: #333333;
     position: fixed;
     width: 100%; 
+    z-index: 5;
   }
   
   nav {
@@ -26,6 +27,7 @@ html, body {
   main {
     text-align: center;
     position: relative;
+    top: 80px;
   }
   
   main h1 {
