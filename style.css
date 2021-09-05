@@ -13,6 +13,7 @@ html, body {
   nav {
     margin: 0;
     padding: 20px 0;
+    text-align: center;
   }
   
   nav li {
@@ -21,7 +22,8 @@ html, body {
     font-weight: 600;
     font-size: 12px;
     display:inline-block;
-    width: 80px;
+    width: 150px;
+    text-align: justify;
   }
   
   main {
@@ -101,6 +103,9 @@ html, body {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     display: inline-block;
+    width: 200px;
+    height: 200px;
+    top: 50px;
   }
   
   .supporting img {
